@@ -1,4 +1,5 @@
 this is our first file
+hello world
 
 add another file to commit the folder and commit it.
 
